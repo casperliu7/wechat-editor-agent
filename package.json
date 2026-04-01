@@ -1,0 +1,16 @@
+{
+  "name": "wechat-agent-skills",
+  "version": "1.0.0",
+  "description": "End-to-end WeChat Official Account publishing pipeline for Pi agent. Includes writing, formatting, illustrating, and publishing to draft box.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pi",
+    "sandagent",
+    "wechat",
+    "agent-skills"
+  ],
+  "author": "",
+  "license": "MIT"
+}

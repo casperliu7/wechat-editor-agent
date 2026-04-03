@@ -1,4 +1,31 @@
-# 🚀 全自动微信公众号主编 (WeChat Auto Editor)
+# 🚀 全自动微信公众号主编 (WeChat Auto Editor Agent)
+
+[中文版说明向下滚动](#中文说明-chinese-version)
+
+Hire a 24/7 senior media editor that never asks for a salary!
+
+## 🌟 Introduction
+This is an out-of-the-box AI Agent. It doesn't just have a smart "brain"; it comes pre-installed with a powerful set of "limbs"—a complete suite of WeChat automation skills (including autonomous topic selection, scraping trending tech news, writing, intelligent illustration, formatting, and publishing to the draft box).
+
+Just give it a single command: **"Write an article about the latest tech trends and publish it to my WeChat Official Account"**, and it will act like an experienced human editor, finishing the entire workflow independently and dropping a beautifully formatted, fully illustrated article into your WeChat draft box in minutes!
+
+## 🛠️ Included Capabilities
+This Agent comes pre-installed with the following professional skills (no manual setup required):
+- `wechat-publish-pipeline` (Core Orchestrator)
+- `baoyu-post-to-wechat` (WeChat Publisher)
+- `baoyu-markdown-to-html` (WeChat HTML Formatter)
+- `baoyu-article-illustrator` (Contextual Illustrator)
+- `baoyu-cover-image` (Viral Cover Generator)
+- `baoyu-imagine` (Multimodal AI Image Engine)
+
+## 💡 Best Use Cases
+- **Solo Tech Bloggers**: No time to write daily? Let this agent prepare a deep-dive article for you every morning.
+- **Enterprise Media Operations**: Drastically reduce the time spent hunting for topics, formatting, and finding images. Focus on strategy instead.
+- **Content Localization**: Comes with powerful web scraping and refined translation capabilities to easily localize high-quality foreign news.
+
+---
+
+# 中文说明 (Chinese Version)
 
 雇佣一位 24 小时待命、永远不用发工资的资深新媒体主编！
 

@@ -1,5 +1,5 @@
 {
-  "name": "wechat-agent-skills",
+  "name": "wechat-editor-agent",
   "version": "1.0.0",
   "description": "End-to-end WeChat Official Account publishing pipeline for Pi agent. Includes writing, formatting, illustrating, and publishing to draft box.",
   "scripts": {

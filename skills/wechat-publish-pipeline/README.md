@@ -1,4 +1,30 @@
-# 🚀 微信公众号全自动爆款制造机 (WeChat Publish Pipeline)
+# 🚀 WeChat Publish Pipeline (微信公众号全自动爆款制造机)
+
+[中文版说明向下滚动](#中文说明-chinese-version)
+
+> **Automate your entire WeChat Official Account workflow: from scraping trending topics, researching, writing, generating illustrations, beautiful WeChat-compatible formatting, to publishing directly to your draft box!**
+
+## 🌟 Core Value (Why this skill?)
+What's the most painful part of running a WeChat Official Account? Finding topics? Sourcing materials? Translating articles? Searching for images? Or painfully adjusting line spacing and copying/pasting into the WeChat editor?
+
+The **`wechat-publish-pipeline`** is an "all-in-one automated Agent skill" designed for self-media creators, tech bloggers, and independent developers. With just one prompt, the Agent runs through all the tedious underlying work and delivers a polished article straight to your draft box!
+
+## 🛠️ Features
+This pipeline automatically executes the following steps seamlessly:
+1. **🤖 Autonomous Topic Selection**: Scrapes GitHub Trending, Hacker News, etc.
+2. **✍️ Research & Write**: Fetches original web pages and writes deep-dive, original articles (first-person or third-person perspective).
+3. **🎨 Article Illustrations**: Analyzes structure and intelligently inserts AI-generated diagrams.
+4. **🖼️ Cover Image**: Extracts summaries to generate beautiful 16:9 or 2.35:1 cover images.
+5. **✨ Markdown → HTML**: Converts Markdown to styled HTML, automatically transforming external links into bottom footnotes (a WeChat requirement).
+6. **🚀 Publish to Draft Box**: Automates the Chrome browser (CDP) or WeChat API to send the final piece to your draft box.
+
+## 💡 How to use?
+Once installed, simply command your Agent:
+> *"Write a new article about the latest AI tools, format it, add illustrations, and publish it to my WeChat Draft Box."*
+
+---
+
+# 中文说明 (Chinese Version)
 
 > **一键托管你的公众号运营：从自动抓取全网热点、研究写稿、生成配图、微信精美排版到发布草稿箱，全自动流水线一次搞定！**
 

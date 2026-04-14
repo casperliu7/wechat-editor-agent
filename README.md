@@ -16,6 +16,7 @@ This repository follows the official Buda Marketplace structure:
 | Agent Name | Path | Description |
 | :--- | :--- | :--- |
 | **WeChat Editor** | `.buda/agents/wechat-editor/` | A 24/7 AI editor that researches, writes, illustrates, formats, and publishes articles to your WeChat Official Account. |
+| **Finance Invoice Assistant** | `.buda/agents/finance-invoice-assistant/` | 一个全自动化的财务发票处理 Agent，支持 OCR 识别、合规校验、智能归档等。 |
 | *(More coming soon)* | | |
 
 ## 🛠️ Skills Available

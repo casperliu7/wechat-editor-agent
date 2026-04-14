@@ -18,6 +18,7 @@ This repository follows the official Buda Marketplace structure:
 | **WeChat Editor** | `.buda/agents/wechat-editor/` | A 24/7 AI editor that researches, writes, illustrates, formats, and publishes articles to your WeChat Official Account. |
 | **Finance Invoice Assistant** | `.buda/agents/finance-invoice-assistant/` | 一个全自动化的财务发票处理 Agent，支持 OCR 识别、合规校验、智能归档等。 |
 | **HR Resume Analyzer** | `.buda/agents/hr-resume-analyzer/` | 自动从 BOSS 直聘邮件中提取简历，对照岗位需求智能筛选评分并推送企微群。 |
+| **Sales & CRM Lead Processor** | `.buda/agents/sales-crm-lead-processor/` | An automation assistant for sales operations, inbox triage, and CRM lead synchronization. |
 | *(More coming soon)* | | |
 
 ## 🛠️ Skills Available
@@ -26,6 +27,7 @@ This repository follows the official Buda Marketplace structure:
 | :--- | :--- | :--- |
 | **WeChat Publish Pipeline** | `skills/wechat-publish-pipeline/` | The core pipeline skill required by the WeChat Editor agent. |
 | **BOSS Resume Analyzer** | `skills/boss-resume-analyzer/` | 解析 BOSS直聘简历邮件，下载 PDF，对照需求智能筛选和评分。 |
+| **Lead Processor** | `skills/lead-processor/` | Handle CRM sales/customer-service leads and multi-mailbox inbox triage. |
 | *(More coming soon)* | | |
 
 ---

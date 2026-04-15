@@ -1,18 +1,8 @@
 ---
-name: legal-manager
-description: >
-  合同与案件一体化法务管家。当用户涉及以下任何场景时触发此技能：
-  合同管理（存合同、归档、查合同、解析合同、提取关键信息、合同录入）、
-  合同到期提醒（续约提醒、到期预警、合同快到期了）、
-  合同合规检查（检查条款、保密条款、违约金、争议解决）、
-  案件管理（新建案件、案件建档、案件进展、开庭时间、举证期限、上诉截止）、
-  案件文件关联（关联证据、上传诉状、案件资料）、
-  法务检索（找合同、查案件、列出所有进行中的案件/合同）、
-  法务统计（合同数量、到期汇总、案件统计）。
-  即使用户没有说"合同"或"案件"，但描述了类似"帮我存一下这个协议"、
-  "那个纠纷的材料在哪"、"下个月有什么要续约的"等意图时，也应触发。
-  不要在用户只是随便聊天或问与法务无关的问题时触发。
+name: "Legal Manager Skill"
+
 allowed-tools: Read, Write, Edit, Bash, Glob
+description: "Core skill for contract and legal case management. Triggers on requests to archive contracts, check compliance terms, associate evidence files, and manage legal schedules."
 ---
 
 # ⚖️ 法务管家 (Legal Manager)

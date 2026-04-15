@@ -1,6 +1,6 @@
 ---
-name: boss-resume-analyzer
-description: "Analyze candidate resumes from BOSS直聘 (BOSS Zhipin) recruitment emails. Use this skill when the user asks to check new resumes, analyze candidates, screen applicants, or generate hiring recommendations. Also trigger when an automation fires to do daily resume scanning. Handles the full pipeline: fetch resume emails → download PDF attachments → extract text → match against job requirements → produce a concise report with top picks and rejects."
+name: "Boss Resume Analyzer"
+description: "Analyzes candidate resumes from recruitment emails, downloads PDF attachments, extracts text, matches against job requirements, and produces concise hiring reports."
 ---
 
 # BOSS直聘简历分析技能

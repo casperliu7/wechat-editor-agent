@@ -1,6 +1,6 @@
 ---
-name: wechat-publish-pipeline
-description: End-to-end pipeline for writing and publishing an article to WeChat Official Account draft box. Use when user says "帮我写一篇新文章", "写文章发公众号", "配图排版发草稿箱", "直接发公众号", "配图发布", "write and publish", or any combination of writing + illustrating + posting to WeChat without manual confirmation steps.
+name: "WeChat Publish Pipeline"
+description: "End-to-end pipeline for drafting, illustrating, and publishing articles to a WeChat Official Account draft box."
 ---
 
 # WeChat Full Publish Pipeline

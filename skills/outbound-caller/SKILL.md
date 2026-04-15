@@ -1,7 +1,7 @@
 ---
-name: outbound-caller
-description: 智能外呼驱动核心 Skill
+name: "Outbound Caller"
 version: 1.0.0
+description: "Core skill for driving smart outbound calls. Encapsulates authentication, call initiation, and status polling for telemarketing workflows."
 ---
 
 # Outbound Caller Skill

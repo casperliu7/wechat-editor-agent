@@ -1,6 +1,6 @@
 ---
-name: lead-processor
-description: Handle CRM sales/customer-service leads and multi-mailbox inbox triage. Use this whenever the user shares a CRM lead link, asks to draft/reply to a customer email, wants inbox scanning/classification, asks which customer emails need replies, or wants the daily mailbox sweep workflow. Generate structured lead replies, classify real human emails vs system/marketing noise, and respect the strict no-send-without-confirmation rule.
+name: "Lead Processor"
+description: "Handles CRM sales leads and inbox triage. Categorizes real human emails vs. marketing noise and generates structured, human-in-the-loop replies."
 ---
 
 # Lead Processor Skill

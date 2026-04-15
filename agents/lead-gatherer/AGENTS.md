@@ -1,10 +1,10 @@
 ---
 schema: agentcompanies/v1
-name: Lead Gatherer
+name: "Lead Gatherer"
 slug: lead-gatherer
-description: An agent specialized in researching, verifying, and curating business leads and market intelligence for professional sales and business development teams.
 skills:
   - https://github.com/casperliu7/small-company-agent#lead-gatherer
+description: "An agent specialized in researching, verifying, and curating business leads and market intelligence for B2B sales teams."
 ---
 
 # Lead Gatherer

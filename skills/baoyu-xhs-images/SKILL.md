@@ -289,9 +289,9 @@ Check these paths in order; first hit wins:
 
 | Path | Scope |
 |------|-------|
-| `.baoyu-skills/baoyu-image-cards/EXTEND.md` | Project |
-| `${XDG_CONFIG_HOME:-$HOME/.config}/baoyu-skills/baoyu-image-cards/EXTEND.md` | XDG |
-| `$HOME/.baoyu-skills/baoyu-image-cards/EXTEND.md` | User home |
+| `.baoyu-skills/baoyu-xhs-images/EXTEND.md` | Project |
+| `${XDG_CONFIG_HOME:-$HOME/.config}/baoyu-skills/baoyu-xhs-images/EXTEND.md` | XDG |
+| `$HOME/.baoyu-skills/baoyu-xhs-images/EXTEND.md` | User home |
 
 - **Found** → read, parse, print a summary (style / layout / watermark / language), continue.
 - **Not found + interactive** → run first-time setup (see `references/config/first-time-setup.md`) and save before anything else. Do NOT analyze content or ask style questions until preferences exist — this keeps first-run behavior predictable.
